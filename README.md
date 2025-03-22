@@ -1,4 +1,4 @@
-# Deploiy de multiples Instancias EC2 usando Terraform
+# Deploy de multiples Instancias EC2 usando Terraform
 
 El Archivo `terraform.tfvars ` continene los valores persistentes de los recurosos.
 - AMI ID
