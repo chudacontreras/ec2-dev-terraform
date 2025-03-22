@@ -9,7 +9,7 @@ terraform.tfstate.*
 # Crash log files
 *.log
 # Ignore any .tfvars files that are automatically generated
-# *.tfvars
+*.tfvars
 # Ignore override files as they are usually used to override resources locally and so are not checked in
 *.override.tf
 *.override.tf.json
